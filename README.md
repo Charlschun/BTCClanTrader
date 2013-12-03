@@ -9,7 +9,6 @@ This version will mainly focus on BTC China as it is currently charging no trans
 
 I will be integrating external charts and other information source to this and then make a iOS companion app.
 
-Donation to this fork: `1E9EDagvf8rUgvh1XQnLSw993WceYj8ZN9`
 
 ## Bitcoin Related Links
 What is Bitcoin?
