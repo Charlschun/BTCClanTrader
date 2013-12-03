@@ -1,5 +1,7 @@
 ## Qt Bitcoin Trader
 
+I plan to use this fork to improve the user experience to this app. To make it even easier for people to set limits and be able to pick suggested values, etc.
+
 This software helps you open and cancel Mt.Gox orders very fast. Real time data monitoring.
 
 Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
