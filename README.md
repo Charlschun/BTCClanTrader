@@ -2,6 +2,8 @@
 
 I am about to launch a new site for bitcoin users, http://www.BTCClan.com/
 
+Support this development and/or specific feature request: Donation: 1E9EDagvf8rUgvh1XQnLSw993WceYj8ZN9
+
 I plan to use this fork to improve the user experience for less technical minded traders. 
 To make it even easier for people to set limits and be able to pick suggested values based on previous trades, etc.
 
